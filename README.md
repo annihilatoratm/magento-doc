@@ -1,5 +1,5 @@
-# [Plugin hangle](https://github.com/annihilatoratm/magento-doc?tab=readme-ov-file#plugin-for-magento-1x-for-pay-by-payneteasy)
-# [User registration](https://github.com/annihilatoratm/magento-doc/blob/main/doc-eng.md#user-registration)
+# [Plugin Handle](https://github.com/annihilatoratm/magento-doc?tab=readme-ov-file#plugin-for-magento-1x-for-pay-by-payneteasy)
+# [User Registration](https://github.com/annihilatoratm/magento-doc/blob/main/doc-eng.md#user-registration)
 # [Payment Flow](https://github.com/annihilatoratm/magento-doc/blob/main/doc-eng.md#payment-flow-1)
 
 
