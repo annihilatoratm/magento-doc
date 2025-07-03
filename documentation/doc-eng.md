@@ -19,19 +19,8 @@
 ## 2. Functionality
 
 This plugin allows merchant to make payments via [merchant PaynetEasy API](http://wiki.payneteasy.com/index.php/PnE:Merchant_API). These payment methods are available at the moment:
-- [x] [Sale Transactions](http://wiki.payneteasy.com/index.php/PnE:Sale_Transactions)
-- [ ] [Preauth/Capture Transactions](http://wiki.payneteasy.com/index.php/PnE:Preauth/Capture_Transactions)
-- [ ] [Transfer Transactions](http://wiki.payneteasy.com/index.php/PnE:Transfer_Transactions)
-- [ ] [Return Transactions](http://wiki.payneteasy.com/index.php/PnE:Return_Transactions)
-- [ ] [Recurrent Transactions](http://wiki.payneteasy.com/index.php/PnE:Recurrent_Transactions)
-- [x] [Payment Form Integration](http://wiki.payneteasy.com/index.php/PnE:Payment_Form_integration)
-- [ ] [Buy Now Button integration](http://wiki.payneteasy.com/index.php/PnE:Buy_Now_Button_integration)
-- [ ] [eCheck integration](http://wiki.payneteasy.com/index.php/PnE:eCheck_integration)
-- [ ] [Western Union Integration](http://wiki.payneteasy.com/index.php/PnE:Western_Union_Integration)
-- [ ] [Bitcoin Integration](http://wiki.payneteasy.com/index.php/PnE:Bitcoin_integration)
-- [ ] [Loan Integration](http://wiki.payneteasy.com/index.php/PnE:Loan_integration)
-- [ ] [Qiwi Integration](http://wiki.payneteasy.com/index.php/PnE:Qiwi_integration)
-- [ ] [Merchant Callbacks](http://wiki.payneteasy.com/index.php/PnE:Merchant_Callbacks)
+- [Sale Transactions](https://doc.payneteasy.eu/integration/api_use_cases/server_to_server_sale.html)
+- [Payment Form Integration](https://doc.payneteasy.eu/integration/api_use_cases/sale_form.html)
 
 ## 3. Package Build
 3.1. [Install composer](http://getcomposer.org/doc/00-intro.md), if not already installed.  
